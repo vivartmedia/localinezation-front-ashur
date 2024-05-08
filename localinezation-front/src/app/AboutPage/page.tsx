@@ -4,7 +4,7 @@ import React from "react";
 
 const AboutPage = () => {
 
-    return (
+    return (  
         <div className="flex flex-col h-fit justify-center items-center my-8">
             <div id="pageHeader" className="flex items-center h-24 bg-fuchsia-300 p-12 mx-auto rounded-lg mt-2 mb-4">
                 <h1 className="text-center font-bold text-gray-700 text-4xl py-7">About Us</h1>
